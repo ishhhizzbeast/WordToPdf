@@ -54,11 +54,11 @@ Sure! Here's a sample GitHub README for your app:
 ## 🌟 Screenshots
 
 
-![Home Screen]()
-![Conversion Screen](screenshots/conversion.png)
-![Home Screen](screenshots/home.png)
-![Conversion Screen](screenshots/conversion.png)
-
+![Home Screen](screenshot/home.jpg)
+![after clicking on select word file](screenshot/afterclickingselectdocs.jpg)
+![convertwed successfully](screenshot/converted.jpg)
+![after clicking download pdf](screenshot/downloadpdf.jpg)
+![after clicking on save to file ](screenshot/clickonsavetofile.jpg)
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-For any inquiries or feedback, please reach out to me at [your-email@example.com](mailto:ishworback123@example.com).
+For any inquiries or feedback, please reach out to me at [ishworback123@example.com](mailto:ishworback123@example.com).
 
 ---
 
