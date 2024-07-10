@@ -54,11 +54,11 @@ Sure! Here's a sample GitHub README for your app:
 ## 🌟 Screenshots
 
 
-![Home Screen](screenshot/home.jpg)
-![after clicking on select word file](screenshot/afterclickingselectdocs.jpg)
-![convertwed successfully](screenshot/converted.jpg)
-![after clicking download pdf](screenshot/downloadpdf.jpg)
-![after clicking on save to file ](screenshot/clickonsavetofile.jpg)
+![Home Screen](screenshots/home.jpg)
+![after clicking on select word file](screenshots/afterclickingselectdocs.jpg)
+![convertwed successfully](screenshots/converted.jpg)
+![after clicking download pdf](screenshots/downloadpdf.jpg)
+![after clicking on save to file ](screenshots/clickonsavetofile.jpg)
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
