@@ -1,5 +1,3 @@
-Sure! Here's a sample GitHub README for your app:
-
 ---
 
 # 📄 Word to PDF Converter
