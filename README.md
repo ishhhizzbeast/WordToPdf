@@ -30,8 +30,8 @@
     - Add the following dependencies to your `build.gradle` file:
     ```gradle
     dependencies {
-        implementation 'org.apache.poi:poi-ooxml:5.2.3'
-        implementation 'com.itextpdf:itext7-core:7.2.3'
+        implementation "org.apache.poi:poi-ooxml:5.2.3"
+        implementation "com.itextpdf:itext7-core:7.2.3"
     }
     ```
 
@@ -75,6 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out to me at [ishworback123@example.com](mailto:ishworback123@example.com).
 
----
-
-Feel free to adjust the content and links according to your specific project details!
